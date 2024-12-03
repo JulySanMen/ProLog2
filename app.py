@@ -18,3 +18,4 @@ def grid_search():
 
 if __name__ == '__main...':
     app.run(debug=True)
+#https://vscode.dev/tunnel/2806-105e-0019-2522-/home/julifg/Documentos/ProLog2
